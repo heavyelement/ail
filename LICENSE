@@ -1,21 +1,20 @@
-Authorial Integrity License v 0.3
-Copyright 2018 - Gardiner Bryant
+Author's Integrity License v 0.3
+Copyright [YEAR] - [AUTHOR NAME]
 
 1. License
-	The Authoral Integrity License (the Work) is made available free of charge to any 
+	The [PROJECT NAME] (the Work) is made available free of charge to any 
 	Individual for personal use provided Limitations (Section 2) are observed.
 
 	The Author hereby grants a license to any Creative to freely use, sample, remix, 
-	or redistribute the Work so long as the conditions laid out in Limitations (Section
-	2) are observed.
+	or redistribute the Work provided Limitations (Section 2) are observed.
 
 2. Limitations
-	2.1 Copyleft Integrity
+	2.1 Redistribution Integrity
 	    2.1.1 Redistribution of the Work is permitted, except in the following instances:
 	    	• Linking to or embedding the Work using thumbnails, headlines, or body copy
 		  which mislead or Misrepresent the Work of the Author.
-      		• The Work must remain intact as it was published by the Author. Omission of
-		  Sponsored or Paid Content constitutes a Derivative Work. (See Section 2.2)
+      		• No omission of any part of the original Work has occurred. (See Section 2.2)
+		• The Work must remain intact as it was published by the Author.
 	2.2 Derivative Works
 	    2.2.1 The Creative may sample portions of the Original Content except when Derivative works:
       		• Intentionally Misrepresent the Original Content.
@@ -27,20 +26,20 @@ Copyright 2018 - Gardiner Bryant
       		  • Voice recognition software for the purpose of creating text transcripts
 		    of the Work is allowed if:
           		◦ The terms of Derivative Works (Section 2.2) are met AND
-          		◦ Voice model training data are not generated or stored AND
-			◦ The Author has not marked the Work as unavailable for text transcription
+          		◦ Voice model training data are NOT stored AND
+			◦ The Author has NOT marked the Work as unavailable for text transcription
 			  either in the Work's metadata or within the Work itself.
 	    2.3.2 The inclusion of this section is not intended to be an exhaustive list of 
 	    prohibited uses.
 3. Intent
 
-      The intent of this license is to preserve the integrity of the Author’s message, their
+      The purpose of this license is to preserve the integrity of the Author’s message, their
       intent, and the context of the Author’s protected Work.
 
       This license SHOULD NOT be interpreted as a means of shielding the Author or the Work
       from criticism, parody, satire, or other protected speech.
 
-      The abuse thereof would constitute an unauthorized remix of these terms (this document
+      The abuse thereof would constitute an UNAUTHORIZED REMIX of these terms (this document
       is recursively licensed) and would result in a nullification of Author’s right to apply
       these terms to their own Work.
 
@@ -51,9 +50,9 @@ Copyright 2018 - Gardiner Bryant
       Derivative Work using the Original Content—or who Redistributes the Work—agrees to be
       bound by the terms laid out in this license.
 
-      Failure to comply with these terms will result in the Creative having their license
-      to use the work rescinded, past and future licenses from the same non-compliant Author
-      nullified (at the original Author’s discretion), and possible legal action taken on
-      behalf of the Author.
+      Failure to comply with these terms will result in the non-compliant Creative having their
+      license to use the work rescinded, past and future licenses from the same non-compliant
+      Author nullified (at the original Author’s discretion), and possible legal action taken on
+      behalf of the original Author.
 
       Supplemental information can be found at github.com/heavyelement/ail
