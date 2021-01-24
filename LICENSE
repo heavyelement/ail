@@ -3,7 +3,7 @@ Copyright 2018 - Gardiner Bryant
 
 1. License
 	The Authoral Integrity License (the Work) is made available free of charge to any 
-	Individual for personal consumption.
+	Individual for personal use provided Limitations (Section 2) are observed.
 
 	The Author hereby grants a license to any Creative to freely use, sample, remix, 
 	or redistribute the Work so long as the conditions laid out in Limitations (Section
@@ -11,33 +11,36 @@ Copyright 2018 - Gardiner Bryant
 
 2. Limitations
 	2.1 Copyleft Integrity
-	    Redistribution of the Work is permitted, except in the following instances:
+	    2.1.1 Redistribution of the Work is permitted, except in the following instances:
 	    	• Linking to or embedding the Work using thumbnails, headlines, or body copy
-		  which mislead or Misrepresent the Spirit or Message of the Author.
+		  which mislead or Misrepresent the Work of the Author.
       		• The Work must remain intact as it was published by the Author. Omission of
 		  Sponsored or Paid Content constitutes a Derivative Work. (See Section 2.2)
 	2.2 Derivative Works
-	    The Creative may sample portions of the Original Content except when Derivative works:
-      		• Violate the spirit of the Original Content.
-      		• Change, subvert, or misrepresent the Spirit, Original Message, or intent of 
-		  the Author.
-      		• Include Sponsored or Paid Content in part or in full.
-	2.3 Prohibited Usage:
-	    The use of the Work for the purpose of training neural networks, artificial
+	    2.2.1 The Creative may sample portions of the Original Content except when Derivative works:
+      		• Intentionally Misrepresent the Original Content.
+      		• Include Sponsored or Paid Content (in part or in full).
+	2.3 Expressly Prohibited Usage:
+	    2.3.1 The use of the Work for the purpose of training neural networks, artificial
 	    intelligence, computer learning algorithms, or voice recognition software is
 	    expressly forbidden.
-      		• Voice recognition software for the purpose of creating text transcripts
-		  of the Work is allowed if:
+      		  • Voice recognition software for the purpose of creating text transcripts
+		    of the Work is allowed if:
           		◦ The terms of Derivative Works (Section 2.2) are met AND
-          		◦ Computational voice models are not generated or stored
+          		◦ Voice model training data are not generated or stored AND
+			◦ The Author has not marked the Work as unavailable for text transcription
+			  either in the Work's metadata or within the Work itself.
+	    2.3.2 The inclusion of this section is not intended to be an exhaustive list of 
+	    prohibited uses.
 
-3. Consent
-      The terms of this license apply to all Derivative Works. Any Creative who makes a
+3. Derivative Licensing
+      The terms of this license apply to ALL Derivatives of this Work. Any Creative who makes a
       Derivative Work using the Original Content—or who Redistributes the Work—agrees to be
-      bound by the terms laid out in this document.
+      bound by the terms laid out in this license.
 
       Failure to comply with these terms will result in the Creative having their license
-      to use the work rescinded, past and future licenses from the same Author nullified
-      (at the Author’s discretion), and possible legal action taken on behalf of the Author.
+      to use the work rescinded, past and future licenses from the same non-compliant Author
+      nullified (at the original Author’s discretion), and possible legal action taken on
+      behalf of the Author.
 
       Supplemental information can be found at github.com/heavyelement/ail
