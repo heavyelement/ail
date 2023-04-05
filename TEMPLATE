@@ -1,46 +1,84 @@
-Authorial Integrity License v 0.3
-Copyright [CURRENT YEAR] - [AUTHOR'S NAME]
+Author's Integrity License v 0.5
+Copyright [YEAR] - [AUTHOR NAME]
 
 1. License
-	The [TITLE OF WORK] (the Work) is made available free of charge to any 
+	[PROJECT NAME] (the Work) is made available free of charge to any 
 	Individual for personal use provided Limitations (Section 2) are observed.
 
 	The Author hereby grants a license to any Creative to freely use, sample, remix, 
-	or redistribute the Work so long as the conditions laid out in Limitations (Section
-	2) are observed.
+	or redistribute the Work provided Limitations (Section 2) are observed.
 
 2. Limitations
-	2.1 Copyleft Integrity
-	    2.1.1 Redistribution of the Work is permitted, except in the following instances:
-	    	• Linking to or embedding the Work using thumbnails, headlines, or body copy
-		  which mislead or Misrepresent the Work of the Author.
-      		• The Work must remain intact as it was published by the Author. Omission of
-		  Sponsored or Paid Content constitutes a Derivative Work. (See Section 2.2)
-	2.2 Derivative Works
-	    2.2.1 The Creative may sample portions of the Original Content except when Derivative works:
-      		• Intentionally Misrepresent the Original Content.
-      		• Include Sponsored or Paid Content (in part or in full).
-	2.3 Expressly Prohibited Usage:
-	    2.3.1 The use of the Work for the purpose of training neural networks, artificial
-	    intelligence, computer learning algorithms, or voice recognition software is
-	    expressly forbidden.
+	2.1 Redistribution Integrity
+	    2.1.1 Redistribution of the Work is granted to any Individual except in the 
+	    following instances:
+	    	• Linking to, embedding, re-uploading, or otherwise sharing the Work using 
+		  thumbnails, headlines, or body copy which mislead or Misrepresent the 
+		  Work of the Author OR
+      		• No omission of any part of the original Work has occurred. Should 
+		  omission of any part of this Work occur, said work shall fall under the
+		  terms of Section 2.2 - Derivative Integrity.
+	2.2 Derivative Integrity
+	    2.2.1 The Creative may sample portions of the Original Content except when 
+	    Derivative works:
+      		• Intentionally Misrepresent the Original Content OR
+      		• Include Sponsored or Paid Content (in part or in full) OR
+		• Plagiarize the work in question, this includes remixing the work as part 
+		  of a GAN- or GPT-style transformation (see Section 2.3)
+		• An attempt is made to obscure the source of this Work, this includes the
+		  the use of GAN- or GPT-style transformation (see Section 2.3)
+	2.3 Prohibited Usage
+	    2.3.1 No Individual or Creative shall use this Work, or cause this Work to be 
+	    used, for the purpose of training neural networks, computer learning algorithms,
+	    artificial intelligence, deep learning, generative pre-trained transformer, 
+	    voice recognition software, or generative adversarial networks, (collectively, 
+	    GANs).
       		  • Voice recognition software for the purpose of creating text transcripts
 		    of the Work is allowed if:
           		◦ The terms of Derivative Works (Section 2.2) are met AND
-          		◦ Voice model training data are not generated or stored AND
-			◦ The Author has not marked the Work as unavailable for text transcription
-			  either in the Work's metadata or within the Work itself.
-	    2.3.2 The inclusion of this section is not intended to be an exhaustive list of 
-	    prohibited uses.
+          		◦ Training data are NOT stored AND
+			◦ The Author has NOT marked the Work as unavailable for text 
+			  transcription either in the Work's metadata or within the Work
+			  itself
+	    2.3.2 No Individual or Creative shall use this Work, or cause this Work to be 
+	    used, in the production of so-called Deepfakes. This includes but is not 
+	    limited to:
+      		  • Synthesizing the likeness of the Author (or any persons included in 
+		  this Work) including visual, audio, or other mediums OR
+	    	  • Synthesizing the writing style, speech patterns, or other attributes
+		  of the Work
+   	    2.3.3 No Individual or Creative shall use this Work, or cause this Work to 
+	    be used, to produce documents, code, or derivative works in the style of 
+	    this Work. This includes, but is not limited to:
+	    	  • Textual or written works, text documents, etc.
+	    	  • Code snippets, functionally similar code, GAN- or GPT-style
+		  transformed code, etc.
+		  • Summaries, breakdowns, explanations, or other instructional
+		  content.
+	    2.3.4 The inclusion of this section is not intended to be an exhaustive 
+	    list of prohibited uses.
+	    
+3. Intent
+      The purpose of this license is to preserve the integrity of the Author’s message, their
+      intent, the rights, and the context of the Author’s protected Work.
 
-3. Derivative Licensing
+      This license SHOULD NOT be interpreted as a means of shielding the Author or the Work
+      from criticism, parody, satire, or other protected speech.
+
+      The abuse thereof would constitute an UNAUTHORIZED REMIX of these terms (this document
+      is recursively licensed) and would result in a nullification of Author’s right to apply
+      these terms to their own Work.
+
+      (See Section 2.2 Derivative Works)
+
+4. Licensing
       The terms of this license apply to ALL Derivatives of this Work. Any Creative who makes a
       Derivative Work using the Original Content—or who Redistributes the Work—agrees to be
       bound by the terms laid out in this license.
 
-      Failure to comply with these terms will result in the Creative having their license
-      to use the work rescinded, past and future licenses from the same non-compliant Author
-      nullified (at the original Author’s discretion), and possible legal action taken on
-      behalf of the Author.
+      Failure to comply with these terms will result in the non-compliant Creative having their
+      license to use the Work rescinded, past and future licenses from the same non-compliant
+      Author nullified (at the original Author’s discretion), and possible legal action taken on
+      behalf of the original Author.
 
       Supplemental information can be found at github.com/heavyelement/ail
