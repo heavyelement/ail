@@ -1,4 +1,4 @@
-Author's Integrity License v 0.4
+Author's Integrity License v 0.5
 Copyright [YEAR] - [AUTHOR NAME]
 
 1. License
@@ -10,35 +10,57 @@ Copyright [YEAR] - [AUTHOR NAME]
 
 2. Limitations
 	2.1 Redistribution Integrity
-	    2.1.1 Redistribution of the Work is permitted, except in the following instances:
-	    	• Linking to, embedding, re-uploading, or otherwise sharing the Work using thumbnails, headlines,
-		  or body copy which mislead or Misrepresent the Work of the Author OR
-      		• No omission of any part of the original Work has occurred. (See Section 2.2)
-	2.2 Derivative Works
-	    2.2.1 The Creative may sample portions of the Original Content except when Derivative works:
+	    2.1.1 Redistribution of the Work is granted to any Individual except in the 
+	    following instances:
+	    	• Linking to, embedding, re-uploading, or otherwise sharing the Work using 
+		  thumbnails, headlines, or body copy which mislead or Misrepresent the 
+		  Work of the Author OR
+      		• No omission of any part of the original Work has occurred. Should 
+		  omission of any part of this Work occur, said work shall fall under the
+		  terms of Section 2.2 - Derivative Integrity.
+	2.2 Derivative Integrity
+	    2.2.1 The Creative may sample portions of the Original Content except when 
+	    Derivative works:
       		• Intentionally Misrepresent the Original Content OR
-      		• Include Sponsored or Paid Content (in part or in full)
-	2.3 Expressly Prohibited Usage
-	    2.3.1 The use of the Work for the purpose of training neural networks, artificial
-	    intelligence, computer learning algorithms, or voice recognition software (collectively, GANs) is
-	    expressly forbidden.
+      		• Include Sponsored or Paid Content (in part or in full) OR
+		• Plagiarize the work in question, this includes remixing the work as part 
+		  of a GAN- or GPT-style transformation (see Section 2.3)
+		• An attempt is made to obscure the source of this Work, this includes the
+		  the use of GAN- or GPT-style transformation (see Section 2.3)
+	2.3 Prohibited Usage
+	    2.3.1 No Individual or Creative shall use this Work, or cause this Work to be 
+	    used, for the purpose of training neural networks, computer learning algorithms,
+	    artificial intelligence, deep learning, generative pre-trained transformer, 
+	    voice recognition software, or generative adversarial networks, (collectively, 
+	    GANs).
       		  • Voice recognition software for the purpose of creating text transcripts
 		    of the Work is allowed if:
           		◦ The terms of Derivative Works (Section 2.2) are met AND
           		◦ Training data are NOT stored AND
-			◦ The Author has NOT marked the Work as unavailable for text transcription
-			  either in the Work's metadata or within the Work itself
-	    2.3.2 The use of the Work in the production of so-called Deepfakes. This includes but is
-	    not limited to:
-      		  • Synthesizing the likeness of the Author (or any persons included in this Work) including
-		  visual, audio, or other mediums OR
-	    	  • Synthesizing the writing style, speech patterns, or other attributes of the Work
-	    2.3.3 The inclusion of this section is not intended to be an exhaustive list of 
-	    prohibited uses.
+			◦ The Author has NOT marked the Work as unavailable for text 
+			  transcription either in the Work's metadata or within the Work
+			  itself
+	    2.3.2 No Individual or Creative shall use this Work, or cause this Work to be 
+	    used, in the production of so-called Deepfakes. This includes but is not 
+	    limited to:
+      		  • Synthesizing the likeness of the Author (or any persons included in 
+		  this Work) including visual, audio, or other mediums OR
+	    	  • Synthesizing the writing style, speech patterns, or other attributes
+		  of the Work
+   	    2.3.3 No Individual or Creative shall use this Work, or cause this Work to 
+	    be used, to produce documents, code, or derivative works in the style of 
+	    this Work. This includes, but is not limited to:
+	    	  • Textual or written works, text documents, etc.
+	    	  • Code snippets, functionally similar code, GAN- or GPT-style
+		  transformed code, etc.
+		  • Summaries, breakdowns, explanations, or other instructional
+		  content.
+	    2.3.4 The inclusion of this section is not intended to be an exhaustive 
+	    list of prohibited uses.
+	    
 3. Intent
-
       The purpose of this license is to preserve the integrity of the Author’s message, their
-      intent, and the context of the Author’s protected Work.
+      intent, the rights, and the context of the Author’s protected Work.
 
       This license SHOULD NOT be interpreted as a means of shielding the Author or the Work
       from criticism, parody, satire, or other protected speech.
