@@ -2,7 +2,7 @@
 name: Spell Check
 
 on:
-    push:
+    push: ["main", "ci-spell"]
 
 jobs:
     spell-check:
@@ -13,4 +13,4 @@ jobs:
             - name: Install cSpell
               run: npm install -g cspell
             - name: Spell Check
-              run: cspell "**/*"
+              run: cspell "**/*" --language en-gb
