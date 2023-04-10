@@ -16,4 +16,4 @@ jobs:
             - name: Install cSpell
               run: npm install -g cspell
             - name: Spell Check
-              run: cspell "**/*" --language en-gb --config .cspell.json
+              run: cspell "**/*" --language en-gb
