@@ -2,7 +2,10 @@
 name: Spell Check
 
 on:
-    push: ["main", "ci-spell"]
+    push:
+    #     branches: [master]
+    # pull_request:
+    #     branches: [master]
 
 jobs:
     spell-check:
@@ -13,4 +16,4 @@ jobs:
             - name: Install cSpell
               run: npm install -g cspell
             - name: Spell Check
-              run: cspell "**/*" --language en-gb
+              run: cspell "**/*" --language en-gb --config .cspell.json
